@@ -1,7 +1,7 @@
 # Welcome to my Makeover Monday Repository
 First of all - thanks for stopping by.
-* **Tableau Public** : - if you haven't - please check out my Tableau Public Profile as this is really a complementary space for the showcase pieces there : https://public.tableau.com/app/profile/allison.jones
-* **LinkedIn** : Also - if you to connect with me on LinkedIn - I always welcome feedback and connecting with others : https://www.linkedin.com/in/allisonjones-data/ 
+* **Tableau Public** : - if you haven't - please check out my [Tableau Public Profile](https://public.tableau.com/app/profile/allison.jones) as this is really a complementary space for the showcase pieces there
+* **LinkedIn** : Also - if you to connect with me on [LinkedIn](https://www.linkedin.com/in/allisonjones-data/) - I always welcome feedback and connecting with others
 
 # Makeover Monday — Data Preparation & Visualization
 
@@ -11,13 +11,18 @@ While the final outputs are Tableau dashboards, a lot of the work happens with d
 
 # My Makeover Monday Mindset
 
-I am trying to challenge myself. This is more than just portfolio building for me - I am trying to stretch myself with regards to python skills, data analytics skills, Tableau and even dipping my toe into data science and getting back to my roots of experimenation where it fits. 
+I am trying to challenge myself. This is more than just portfolio building for me - I am trying to stretch myself with regards to:
+ * stretching my **python skills**
+ * honing my **data analytics** skills
+ * refining my **Tableau Storytelling**
+ * and even dipping my toes back into **data science** as this is a way for me to reconnect with experimentation, especially where it fits naturally.
+
 Across these projects, I plan to focus on on:
-* Designing data models that serve the visualization, not the other way around
-* Using scaffolding / densification techniques when the visual form requires it
+* Designing **data models** that serve the visualization, not the other way around
+* Using **scaffolding / densification** techniques when the visual form requires it
 * Exploring relationship-driven charts (flows, paths, timelines) when the data implies movement or connection
 * Keeping notebooks readable and reproducible for others learning Tableau + Python + SQL (but please forgive my spelling mistakes because Google hasn't added spell checked to their UI yet)
-Several projects are inspired by advanced Tableau techniques popularized by creators such as the **Flerlage Twins**, **Toan Hoang**, and the broader Tableau community — especially when a dataset benefits from non-standard chart types (e.g. Sankey-style flows, path interpolation, or timeline matrices) - and I will always try to credit inspiration where I find it.
+Several projects are inspired by advanced Tableau techniques by amazing creators such as the **Flerlage Twins**, **Toan Hoang**, as well as the broader Tableau community, and I will always try to credit inspiration where I find it.
 
 # Notebooks
 I will try to keep my notebooks as consistent as possible - but these are often just working documents and I am not always using a template.
@@ -38,3 +43,37 @@ Each notebook typically includes:
 4. **Tableau Output**
  * Link to my Tableau Dashboard and some Comments about it
  * Each project notebook links directly to its corresponding Tableau dashboard.
+
+<h2>Makeover Monday Featured Vizzes</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://public.tableau.com/views/MoM2026_w3WomenConductorsonBroadway/ExploringWomenConductorscontributiontoRevivalsonBroadway">
+        <img src="images/mom_2026_w3/tableaudashboard_mom_2026_w3_womenconductors.png" width="420">
+        <br><b>Women+ Conductors on Broadway</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/MoM2026_w1RollerCoasters/WhereintheWorldaretheTallestRollerCoasters">
+        <img src="images/tableaudashboard_mom_2026_w1_rollercoasters.png" width="420">
+        <br><b>Tallest Rollercoasters</b>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://public.tableau.com/views/MoM2026_w2RealEstateBubbleRisks/RealEstateBubbleRisks">
+        <img src="images/tableaudashboard_mom_2026_w2_Real_Estate_Bubble_Risks.png" width="420">
+        <br><b>Housing Bubble Risk</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/MoM2025_w4CurrentandPrefferedWorkArrangement/AreMostDataVizzersworkingwheretheywantto">
+        <img src="images/mom_2025_w4/tableadashbord_mom_2025_w4_workarrangements.png" width="420">
+        <br><b>Data Vizzer Work Arrangement</b>
+      </a>
+    </td>
+  </tr>
+</table>
