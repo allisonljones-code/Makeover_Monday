@@ -47,31 +47,44 @@ Each notebook typically includes:
 <h2>Makeover Monday Featured Vizzes</h2>
 
 <table>
-  <tr>
+    <tr>
+    <td align="center">
+      <a href="https://public.tableau.com/app/profile/allison.jones/viz/MoM2026_w5Gold_17705611299590/MoM2026W5Gold">
+        <img src="images/tableaudashboard_mom_2026_w5_gold.png" width="400">
+        <br><b>How has Gold fluctuated over the last 20 Years</b>
+      </a>
+    </td>
     <td align="center">
       <a href="https://public.tableau.com/views/MoM2026_w3WomenConductorsonBroadway/ExploringWomenConductorscontributiontoRevivalsonBroadway">
-        <img src="images/mom_2026_w3/tableaudashboard_mom_2026_w3_womenconductors.png" width="420">
+        <img src="images/mom_2026_w3/tableaudashboard_mom_2026_w3_womenconductors.png" width="400">
         <br><b>Women+ Conductors on Broadway</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://public.tableau.com/views/MoM2026_w1RollerCoasters/WhereintheWorldaretheTallestRollerCoasters">
-        <img src="images/tableaudashboard_mom_2026_w1_rollercoasters.png" width="420">
-        <br><b>Tallest Rollercoasters</b>
+      <a href="https://public.tableau.com/app/profile/allison.jones/viz/MoM2026_w4JobTitlesinHighestDemand/TopJobsacrosstheUnitedStatesin2025">
+        <img src="images/mom_2026_w4/tableaudashboard_mom_2026_w4_Topjobs.png" width="400">
+        <br><b>Top 3 Ranked Jobs in USA</b>
       </a>
     </td>
   </tr>
 
   <tr>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/MoM2026_w1RollerCoasters/WhereintheWorldaretheTallestRollerCoasters">
+        <img src="images/tableaudashboard_mom_2026_w1_rollercoasters.png" width="400">
+        <br><b>Tallest Rollercoasters</b>
+      </a>
+    </td>
     <td align="center">
       <a href="https://public.tableau.com/views/MoM2026_w2RealEstateBubbleRisks/RealEstateBubbleRisks">
-        <img src="images/tableaudashboard_mom_2026_w2_Real_Estate_Bubble_Risks.png" width="420">
+        <img src="images/tableaudashboard_mom_2026_w2_Real_Estate_Bubble_Risks.png" width="400">
         <br><b>Housing Bubble Risk</b>
       </a>
     </td>
     <td align="center">
       <a href="https://public.tableau.com/views/MoM2025_w4CurrentandPrefferedWorkArrangement/AreMostDataVizzersworkingwheretheywantto">
-        <img src="images/mom_2025_w4/tableadashbord_mom_2025_w4_workarrangements.png" width="420">
+        <img src="images/mom_2025_w4/tableadashbord_mom_2025_w4_workarrangements.png" width="400">
         <br><b>Data Vizzer Work Arrangement</b>
       </a>
     </td>
